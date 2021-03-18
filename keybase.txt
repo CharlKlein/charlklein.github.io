@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/charlklein
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://charlklein.me
+  * I am charlklein (https://keybase.io/charlklein) on keybase.
+  * I have a public key ASAhdCxfPJbc5na0KOS4d2C4k2izCwWWSpGr8qZoSFHDGQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012021742c5f3c96dce676b428e4b87760b89368b30b05964a91abf2a6684851c3190a",
+      "host": "keybase.io",
+      "kid": "012021742c5f3c96dce676b428e4b87760b89368b30b05964a91abf2a6684851c3190a",
+      "uid": "9e1e2a666f6d6d15bfcd76c591d1a719",
+      "username": "charlklein"
+    },
+    "merkle_root": {
+      "ctime": 1616059193,
+      "hash": "fa927be91589919338fc4c338e618f873c5707279a9181e523e2409e2b20f1b2371d4284127b039525a26d6e60015df6e36ffd309cd51e01726870bae8964470",
+      "hash_meta": "7bae443ac85558aae16e16bac5c043291d209fa5d4963c53bc117244f8d3665b",
+      "seqno": 19405187
+    },
+    "service": {
+      "entropy": "9zeUKxx0Mu9XEdPtXcnu2G0W",
+      "hostname": "charlklein.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1616059256,
+  "expire_in": 504576000,
+  "prev": "b88432fb3776d072539affccb8f41b5666609cd12cd161141b65369a8e294516",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIXQsXzyW3OZ2tCjkuHdguJNoswsFlkqRq/KmaEhRwxkKp3BheWxvYWTESpcCC8QguIQy+zd20HJTmv/MuPQbVmZgnNEs0WEUG2U2mo4pRRbEIMAS5OwI5My1EUhH7xrlEsfG58ExhlS5gTMtKZYq6FloAgHCo3NpZ8RA/stf2DDF0X7RaCmjG1wYl4ND3TrHnSc4P3nC/5sSkGVTvOA4Y6HDy4vU0xO4O4bFZrqefBD1GS8vMPhi42WpAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC0ZECFXBQPg/4jSDLJLrxk6HvzQMMzTm0xieNn1KGHVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/charlklein
+
